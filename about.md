@@ -6,7 +6,7 @@ permalink: /about/
 
 <amp-img width="600" height="300" layout="responsive" src="/assets/images/about.jpg"></amp-img>
 
-Premium markups, quality issues, geo-discrimination, overwhelming choice - we believe that online shopping is broken. 
+Premium markups, quality issues, geo-discrimination, overwhelming choice - we believe that shopping is broken. 
 So we decided to build a company to fix that.
 
 We gather product data from various sources, then analyze it using AI,

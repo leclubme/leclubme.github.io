@@ -16,15 +16,15 @@ We challenge you to delight the world with your craft!
 
 ### Benefits
 -----------
+* Early-stage work in a startup that can go big;
 * Remote/Work from home;
 * Flexible schedule;
 * Long term;
-* Stock options possible;
 * No corporate bullshit. 
 
 ### About us 📖
 
-Premium markups, quality issues, geo-discrimination, overwhelming choice - we believe that online shopping is broken. 
+Premium markups, quality issues, geo-discrimination, overwhelming choice - we believe that shopping is broken. 
 So we decided to build a company to fix that. We gather product data from various sources, then analyze it using AI,
 enabling shoppers to quickly find and order what they need, while being confident that they get a great offer. We aim at combining the largest product selection
 with tools to make personalized choice hassle-free, safe and fast.
