@@ -9,7 +9,7 @@
 title: Le Club
 #email: hello[at]leclub.lv
 description: >
-   Disrupting beauty shopping. Powered by AI. And You.
+   Disrupting online shopping. Powered by AI  and You.
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://leclub.me" # the base hostname & protocol for your site
@@ -17,7 +17,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Le Club'
 bio: >
- Disrupting beauty shopping. Powered by AI. And You.
+ Disrupting beauty shopping. Powered by AI and You.
 author_image: "/assets/images/author.jpg"
 #twitter_username: jekyllrb
 #github_username:  jekyll
