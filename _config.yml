@@ -17,7 +17,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Le Club'
 bio: >
- Disrupting beauty shopping. Powered by AI and You.
+ Disrupting online shopping. Powered by AI and You.
 author_image: "/assets/images/author.jpg"
 #twitter_username: jekyllrb
 #github_username:  jekyll
