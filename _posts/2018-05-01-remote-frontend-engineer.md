@@ -71,7 +71,7 @@ and we are looking for someone who can grow with our products for years to come.
 * AngularJS, React, Knockout, etc.;
 * An active Github or Stackoverflow account.
 
-## Apply
+## Apply Now
 
 Drop a line to apply [at] leclub.me. 
 Don't forget to include links to your `github/stackoverflow/bitbucket` profiles.

@@ -65,6 +65,6 @@ of an advisory role - you will be involved in planning, provide feedback on exec
 * Startup experience
 * Agile approach
 
-## Apply
+## Apply Now
 
 Drop a line to apply [at] leclub.me

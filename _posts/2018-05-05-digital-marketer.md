@@ -67,6 +67,6 @@ You will be working with our CEO and marketing team.
 * Own blog, social network account/community with demonstrable reader activity. 
 * Experience marketing beauty, fashion or other female-oriented products and services.
 
-## Apply
+## Apply Now
 
 Drop a line to apply [at] leclub.me
