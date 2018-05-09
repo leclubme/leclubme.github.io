@@ -20,7 +20,7 @@ Essential: Experience promoting female-oriented products via key digital media c
 ------
 * Early-stage work in a startup that can go big;
 * Remote/Work from home;
-* Flexible schedule;
+* Flexible schedule (weekly involvement, ~2 days/mo on average)
 * No corporate bullshit. 
 
 ### About us 📖
