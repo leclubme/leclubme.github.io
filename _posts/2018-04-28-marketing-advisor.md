@@ -15,6 +15,7 @@ Essential: Experience promoting female-oriented products via key digital media c
 * Location: Work from anywhere within EET +/- 5;
 * Role: Marketing;
 * Languages: Russian and/or Latvian.
+* Application Deadline: 25 May
 
 ## Benefits
 ------

@@ -15,6 +15,7 @@ Essential: Experience growing sales via key digital media channels (content, soc
 * Location: Work from anywhere within EET +/- 5;
 * Role: Marketing;
 * Languages: Russian and/or Latvian.
+* Application Deadline: 25 May
 
 ## Benefits
 ------

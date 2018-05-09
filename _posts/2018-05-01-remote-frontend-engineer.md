@@ -13,6 +13,7 @@ We challenge you to delight the world with your craft!
 * Experience level: Medium to Senior;
 * Location: Work from anywhere within EET +/- 5;
 * Role: Front-end development.
+* Application Deadline: 25 May
 
 ### Benefits
 -----------
