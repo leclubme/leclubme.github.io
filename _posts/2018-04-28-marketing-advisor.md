@@ -33,7 +33,7 @@ with tools to make personalized choice hassle-free, safe and fast.
 
 We are a funded eCommerce startup that fully embraces remote work and puts people over processes. Our MVP is currently in a private beta.
 
-We are looking for a Marketing Strategist to help us plan monthly and weekly marketing activities.
+We are looking for a Marketing Advisor to help us plan monthly and weekly marketing activities.
 
 ### What you'll be doing 🚀
 
