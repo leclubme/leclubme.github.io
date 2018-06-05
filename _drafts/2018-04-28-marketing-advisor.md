@@ -10,19 +10,17 @@ Essential: Experience promoting female-oriented products via key digital media c
 
 ## Key facts:
 ------
-* Job type: Part-time;
-* Experience level: Medium to Senior;
+* Job type: Part-time, ~1-2 days/month;
+* Experience: 4+ years;
 * Location: Work from anywhere within EET +/- 5;
-* Role: Marketing;
-* Languages: Russian and/or Latvian.
-* Application Deadline: 25 May
+* Languages: Russian/Latvian.
 
-## Benefits
+## What's in it for you?
 ------
-* Early-stage work in a startup that can go big;
+* The drive of helping exciting early-stage startup, that can go big. Your work will make a difference. 
 * Remote/Work from home;
-* Flexible schedule (weekly involvement, ~2 days/mo on average)
-* No corporate bullshit. 
+* Share your know-how and see how it leads to growing a new company;
+* Reasonable retention fee + stock options possible.
 
 ### About us 📖
 
@@ -31,17 +29,13 @@ So we decided to build a company to fix that. We gather product data from variou
 enabling shoppers to quickly find and order what they need, while being confident that they get a great offer. We aim at combining the largest product selection
 with tools to make personalized choice hassle-free, safe and fast.
 
-We are a funded eCommerce startup that fully embraces remote work and puts people over processes. Our MVP is currently in a private beta.
-
-We are looking for a Marketing Advisor to help us plan monthly and weekly marketing activities.
+As a startup, we fully embrace remote work and puts people over processes. Our MVP is currently in a private beta.
 
 ### What you'll be doing 🚀
 
-The right person will have worked for a number of years in digital marketing and ran successful eCommerce campaigns for beauty, fashion or other
-female-oriented products and services.
-
-You will be working with our CEO and marketing team to create a monthly/weekly marketing activity plan, define and measure performance metrics. This is more
-of an advisory role - you will be involved in planning, provide feedback on execution. You will not necessarily be involved in day-to-day execution, unless you want to.
+You'll be helping 
+You have a broad marketing toolkit, including SMM (organic and PPC), community building, sales funnels, marketing analytics.
+You know what shortcuts 
 
 ### You’ll be a good fit if you 📊
 ------

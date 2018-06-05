@@ -13,14 +13,15 @@ We challenge you to delight the world with your craft!
 * Experience level: Medium to Senior;
 * Location: Work from anywhere within EET +/- 5;
 * Role: Front-end development.
-* Application Deadline: 25 May
+* Application Deadline: 25 June
 
-### Benefits
+### What do you get
 -----------
-* Early-stage work in a startup that can go big;
-* Remote/Work from home;
-* Flexible schedule;
-* Long term;
+* The drive of working in an exciting early-stage startup, that can go big;
+* Remote/Work from home. You can combine this with parenting or your good old corporate job;
+* Choose your own schedule;
+* Online training allowance (up to $100/mo);
+* Competitive salary + bonus based on team KPIs;
 * No corporate bullshit. 
 
 ### About us 📖
@@ -36,7 +37,7 @@ We are looking for a talented front-end engineer to join our passionate developm
 
 ### What you'll be doing 🚀
 -----------
-* You will be implementing HTML/CSS/JS front-ends in collaboration with designers;
+* You will be implementing HTML/CSS/JS front-ends;
 * Refactoring and improving the codebase;
 * Help define and maintain visual guidelines to ensure consistency throughout the website;
 * Improving usability and speed of existing features using modern client-side frameworks.
@@ -49,6 +50,7 @@ and we are looking for someone who can grow with our products for years to come.
 -----------
 * Take pride in your work, are self-disciplined and have a great work ethic;
 * Have extreme attention to detail;
+* Are a self-starter and don't need someone nagging to get you started;
 * Enjoy moving fast and use modern tools and approaches supporting that goal;
 * Can take responsibility for quality & maintainability of codebase and your tasks;
 * Communicate well;

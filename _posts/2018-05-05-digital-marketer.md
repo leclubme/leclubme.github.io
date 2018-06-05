@@ -11,19 +11,19 @@ Essential: Experience growing sales via key digital media channels (content, soc
 ## Key facts:
 ------
 * Job type: Part-time;
-* Experience level: Medium to Senior;
+* Desired experience: 4+ years;
 * Location: Work from anywhere within EET +/- 5;
-* Role: Marketing;
 * Languages: Russian and/or Latvian.
-* Application Deadline: 25 May
+* Application Deadline: 25 June
 
 ## Benefits
 ------
-* Early-stage work in a startup that can go big;
-* Remote/Work from home;
-* Competitive salary;
-* Flexible schedule;
-* No corporate bullshit.
+* The drive of working in an exciting early-stage startup, that can go big. Your work will make a difference. 
+* Remote/Work from home. You can combine this with parenting or your good old corporate job;
+* Choose your own schedule;
+* Online training allowance (up to $100/mo);
+* Competitive salary + bonus based on team KPIs;
+* No corporate bullshit. 
 
 ### About us 📖
 
@@ -32,14 +32,13 @@ So we decided to build a company to fix that. We gather product data from variou
 enabling shoppers to quickly find and order what they need, while being confident that they get a great offer. We aim at combining the largest product selection
 with tools to make personalized choice hassle-free, safe and fast.
 
-We are a funded eCommerce startup that fully embraces remote work and puts people over processes. Our MVP is currently in a private beta.
-
-We are looking for a Digital Marketer to come up with, execute and measure marketing campaigns.
+As a startup, we fully embrace remote work and puts people over processes. Our MVP is currently in a private beta.
 
 ### What you'll be doing 🚀
 
-You have worked for a number of years in digital marketing and have experience in eCommerce. You will contribute to a monthly/weekly marketing activity plan, generate and test hypotheses, create content, measure and report the results. 
-You will be working with our CEO and marketing team. 
+You have worked for a number of years in digital marketing and have experience in eCommerce. 
+You will contribute to marketing strategy, generate and test promotion and audience hypotheses,
+create & adapt content, build & engage online communities, measure and report the results.
 
 ### You’ll be a good fit if you 📊
 ------
@@ -52,21 +51,22 @@ You will be working with our CEO and marketing team.
 
 ### Skills you need ✔️
 ------
-* Growth hacker mindset - you're all about quickly generating and testing hypotheses.
-* Knowledge of tools for rapid production of campaign content;
+* Pragmatic, get sh*t done mindset;
+* Knowledge of tools for rapid production of attractive campaign content;
+* Experience in influencer outreach, sales, grassroots, social media, digital PR, buzz building and building sustainable communities;
+* Experience in user research through online forums and communities;
+* Know enough about paid PPC to efficiently boost social posts when necessary;
+* Metric and result-oriented. I.e. not a fan of "we're doing this for brand awareness and it can't be measured" campaigns :)
+* Understand female beauty/skincare audience trends, desires and needs;
 * Great command of written Latvian or Russian (or both);
-* Experience with major digital marketing types: content, social, email, community, influencer;
-* You know how to make the most out of a limited budget;
-* Track record of measurable eCommerce sales increase as a result of your work;
 
-### Bonus
-------
-* Unconventional PR
-* Startup experience
-* Agile approach
-* Own blog, social network account/community with demonstrable reader activity. 
-* Experience marketing beauty, fashion or other female-oriented products and services.
 
 ## Apply Now
 
-Drop a line to apply [at] leclub.me
+Drop a line to apply [at] leclub.me, answering these 3 questions:
+
+1. Tell about an SMM campaign you did that you're proud of. What were the success metrics (give numbers)?
+
+2. You can't use discounts/giveaways. How else do you involve people into sharing their opinions and posting their own content on social media?
+
+3. What kinds of content can you create? Provide examples.
