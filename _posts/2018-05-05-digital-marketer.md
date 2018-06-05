@@ -11,18 +11,18 @@ Essential: Experience growing sales via key digital media channels (content, soc
 ## Key facts:
 ------
 * Job type: Part-time;
-* Desired experience: 4+ years;
+* Desired experience: 3+ years;
 * Location: Work from anywhere within EET +/- 5;
-* Languages: Russian and/or Latvian.
+* Languages: RU/LV;
 * Application Deadline: 25 June
 
-## Benefits
+## What's in it for you?
 ------
-* The drive of working in an exciting early-stage startup, that can go big. Your work will make a difference. 
+* The drive of developing an exciting early-stage startup, that can go big. Your work will make a difference. 
 * Remote/Work from home. You can combine this with parenting or your good old corporate job;
 * Choose your own schedule;
 * Online training allowance (up to $100/mo);
-* Competitive salary + bonus based on team KPIs;
+* Competitive salary based on your experience + bonus based on team KPIs;
 * No corporate bullshit. 
 
 ### About us 📖
@@ -32,7 +32,7 @@ So we decided to build a company to fix that. We gather product data from variou
 enabling shoppers to quickly find and order what they need, while being confident that they get a great offer. We aim at combining the largest product selection
 with tools to make personalized choice hassle-free, safe and fast.
 
-As a startup, we fully embrace remote work and puts people over processes. Our MVP is currently in a private beta.
+As a startup, we fully embrace remote work and put people over processes. Our MVP is currently in a private beta.
 
 ### What you'll be doing 🚀
 
